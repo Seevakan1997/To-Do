@@ -16,6 +16,7 @@ This is a full-stack task management application built with:
 - 🌐 RESTful API built with Laravel
 - 🎨 Responsive React UI
 - 📦 MySQL database
+- 🆕 Implemented Dark Mode also in right corner added Dark Mode switch Icon
 
 ---
 
