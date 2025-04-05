@@ -10,6 +10,8 @@ WORKDIR /var/www
 
 COPY . .
 
+RUN cp .env.example .env
+
 RUN composer install
 RUN chown -R www-data:www-data /var/www
 
