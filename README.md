@@ -35,5 +35,10 @@ Make sure you have the following installed:
 ## 🐳 How to Run the Project (Docker Compose)
 
 Run the following command from the project root:
+cd todo-backend
+composer install
+
+cd todo-frontend
+npm install react-scripts
 
 docker compose up --build
